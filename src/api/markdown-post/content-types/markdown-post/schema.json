@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "markdown_posts",
+  "info": {
+    "singularName": "markdown-post",
+    "pluralName": "markdown-posts",
+    "displayName": "Markdown Post"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "article": {
+      "type": "richtext"
+    }
+  }
+}
